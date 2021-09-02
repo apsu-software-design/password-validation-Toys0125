@@ -8,23 +8,23 @@ All credit goes to the University of Wisconsin for the format of this homework a
 This repo contains code for the password validator. The below questions should be answered regarding your submission!
 
 ## Did you find the JavaScript Learning Tutor useful? If so, what about the tool made it useful? If not, why not?
-> Answer goes here!
+> No Link in word document.
 
 
 ## Do you have any suggestions on how the JavaScript Learning Tutor might be improved?
-> Answer goes here
+> No Link
 
 
 ## Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!).
-> Answer goes here!
+> Google, W3Schools, and Microsoft wiki.
 
 
 ## Approximately how many hours did it take you to complete this assignment?
-> Answer goes here!
+> 1 hour
 
 
 ## On a scale of 1 (too easy) to 10 (too challenging), how difficult was this assignment?
-> Answer goes here!
+> 2
 
 
 ## Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better?
